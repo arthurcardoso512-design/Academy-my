@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center Gym Barbell & Progress Icon (within safe 66dp zone, centered at 54,54) -->
+    <!-- Left Plate Outer -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M30,42 L34,42 A2,2 0 0,1 36,44 L36,64 A2,2 0 0,1 34,66 L30,66 A2,2 0 0,1 28,64 L28,44 A2,2 0 0,1 30,42 Z" />
+    <!-- Left Plate Inner -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M38,46 L41,46 A1.5,1.5 0 0,1 42.5,47.5 L42.5,60.5 A1.5,1.5 0 0,1 41,62 L38,62 A1.5,1.5 0 0,1 36.5,60.5 L36.5,47.5 A1.5,1.5 0 0,1 38,46 Z" />
+    <!-- Barbell Center Bar -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M42.5,51.5 L65.5,51.5 A2.5,2.5 0 0,1 68,54 L68,54 A2.5,2.5 0 0,1 65.5,56.5 L42.5,56.5 A2.5,2.5 0 0,1 40,54 L40,54 A2.5,2.5 0 0,1 42.5,51.5 Z" />
+    <!-- Right Plate Inner -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M67,46 L70,46 A1.5,1.5 0 0,1 71.5,47.5 L71.5,60.5 A1.5,1.5 0 0,1 70,62 L67,62 A1.5,1.5 0 0,1 65.5,60.5 L65.5,47.5 A1.5,1.5 0 0,1 67,46 Z" />
+    <!-- Right Plate Outer -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M74,42 L78,42 A2,2 0 0,1 80,44 L80,64 A2,2 0 0,1 78,66 L74,66 A2,2 0 0,1 72,64 L72,44 A2,2 0 0,1 74,42 Z" />
+    <!-- Rising Flame / Growth Badge on top right -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M54,28 C56,33 62,35 60,40 C59,43 56,44 54,44 C51.5,44 49,42 50,38 C50.5,35 52,32 54,28 Z" />
+</vector>
